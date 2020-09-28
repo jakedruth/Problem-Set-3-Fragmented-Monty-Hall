@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">The Monty Hall Game</string>
+    <string name="door1">Door 1</string>
+    <string name="door2">Door 2</string>
+    <string name="door3">Door 3</string>
+    <string name="continueText">continue</string>
+    <string name="restartText">restart</string>
+    <string name="begin">
+        Welcome to the Monty Hall Game! Behind each of these doors there is a prize you can take home. However, Only one prize is valuable,
+        while the others two prizes are donkeys. Which door do you think the cash prize is located behind.
+    </string>
+    <string name="selectFirstDoor">You have selected door selectedDoorIndex. Lets make things interesting! I will now remove one of the doors where a donkey is located.</string>
+    <string name="eliminateDoor">
+        Door index has been eliminated. I bet you think you made the right decision now. Or do you? Would you like to switch doors? You can if you want.
+        Or do you want to stick with your gut and stay with your first pick. Which door would you like as your final selection?
+    </string>
+    <string name="showFinalSelection">You have decided that your final door will be door selectedDoorIndex. How Exciting! Now for the moment we have all been waiting for, the results.</string>
+    <string name="win">Congratulations! You selected the door with a load of cash! Do you want to play again?</string>
+    <string name="lose">Sorry! Unfortunately you selected a door with a donkey. Do you want to play again?</string>
 </resources>
